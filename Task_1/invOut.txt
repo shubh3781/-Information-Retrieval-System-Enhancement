@@ -1,0 +1,8 @@
+sampl	D1|1	D2|1
+document	D1|1	D2|1	D3|1
+second	D2|1
+more	D2|1
+sentenc	D2|1
+third	D3|1
+multipl	D3|1
+paragraph	D3|1

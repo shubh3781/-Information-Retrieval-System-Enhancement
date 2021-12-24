@@ -1,0 +1,8 @@
+Python 3.6.9 and nltk is required for the scripts,
+ - probfuse.py
+
+How to run the code:
+    1. python3 probfuse.py infolder outfolder output.txt
+
+Expected Input and Output files:
+    Example files has been attached with the project.
